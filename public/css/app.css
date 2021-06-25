@@ -1,0 +1,40 @@
+/* Source Sans Pro, sans-serif */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400&display=swap');
+
+html {
+  min-height: 100%;
+}
+
+body {
+  min-height: 100%;
+  background: #2f3640;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+nav.navbar {
+  background: #353b48;
+}
+
+li.list-group-item {
+  background: #353b48;
+  color: #fff;
+}
+
+sub {
+  font-size: 14px;
+}
+
+.bg_dark {
+  background: #353b48;
+  color: #fff;
+}
+
+.auth-open {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  position: fixed;
+  display: block;
+  z-index: 999;
+}
+/* +================================================++================================================++================================================++================================================+ */
